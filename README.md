@@ -1,2 +1,3 @@
 # Beadand-_neve
-MatProgCsom beadandó, (beadandó neve pl sudokusolver vagy valami hasonló)
+
+Ide jöhet a leírás a beadandóról, a feltöltött mappa rendszerről, illetve a beadandó beüzemeléséről, futtatásáról.
